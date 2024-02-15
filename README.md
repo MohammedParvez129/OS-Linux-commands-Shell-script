@@ -163,13 +163,7 @@ cat newfile | grep -i "hello"
 cat newfile | grep -i -c "hello"
 ## OUTPUT
     2
-
-
-grep -R ubuntu /etc
-## OUTPUT
-
-
-
+    
 grep -w -n world newfile   
 ## OUTPUT
 
