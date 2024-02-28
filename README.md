@@ -273,7 +273,7 @@ Unix is predecessor
 Linux is best in this World
 ````
 cat > file23
-
+```
 1001 | Ram | 10000 | HR
 1001 | Ram | 10000 | HR
 1002 | tom |  5000 | Admin
@@ -283,6 +283,7 @@ cat > file23
 1003 | Joe |  7000 | Developer
 1001 | Ram | 10000 | HR
 ^d
+```
 sed -n -e '3p' file23
 
 ##OUTPUT
